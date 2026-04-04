@@ -1,0 +1,5 @@
+cryptofeed>=2.0
+clickhouse-connect>=0.5
+aiohttp>=3.8
+pandas>=1.5
+numpy>=1.21
